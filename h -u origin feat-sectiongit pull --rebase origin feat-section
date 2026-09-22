@@ -1,0 +1,53 @@
+[33mcommit e2a5fcc9b599079064cf08ee5cd97cd0a879dfde[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat-section[m[33m)[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Tue Sep 22 09:03:46 2026 +0530
+
+    added files
+
+[33mcommit 3cca7f1c95b73c97a6166256d3519bd8ee57544a[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Tue Sep 22 09:00:55 2026 +0530
+
+    added file
+
+[33mcommit 65207391aae594b5e0b699e2ac2d736ea6eb53be[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Mon Sep 21 11:57:29 2026 +0530
+
+    added section
+
+[33mcommit 3965da3b81835b9c7268e7d697b0e7aa63b628a8[m[33m ([m[1;32mfeature-restructure[m[33m)[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Fri Aug 21 10:19:17 2026 +0530
+
+    modified feature
+
+[33mcommit 5334f6542136aa9d64685bf8b31cc9509344a61e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Tue Aug 11 11:44:16 2026 +0530
+
+    added links and restructured page
+
+[33mcommit a4834b0cc64542b3c469789c6df78e09e75503ef[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Thu Jul 30 15:16:25 2026 +0530
+
+    Fix link markup and ignore macOS metadata
+
+[33mcommit 923ee6a39a5e581be9dd60544c796ac476be0e52[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Wed Jul 29 11:51:52 2026 +0530
+
+    added link to git docs
+
+[33mcommit 85b584afa135dc67c15e892dbb88afa557cb0001[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Mon Jul 27 12:43:32 2026 +0530
+
+    initial commit
+
+[33mcommit 7e6cc0c832ba1bded16b0d596414949eba3cfb7e[m
+Author: Trivedi <ayutrivedi@deloitte.com>
+Date:   Mon Jul 27 12:42:14 2026 +0530
+
+    initial commit
